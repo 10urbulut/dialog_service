@@ -1,11 +1,11 @@
 name: dialog_service
 description: A new Flutter package project.
-version: 0.1.4
+version: 0.1.5
 homepage: https://github.com/10urbulut/dialog_service
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
-  flutter: ">=3.3.8"
+  flutter: ">=2.2.3"
 
 dependencies:
   flutter:
